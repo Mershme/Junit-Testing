@@ -11,6 +11,7 @@ public class countATest {
 		JUnitTesting test = new JUnitTesting();
 		int output = test.countA("equals");
 		assertEquals(1, output);
+		
 	}
 
 }
